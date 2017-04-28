@@ -1,0 +1,34 @@
+$ vi first --> start vi editor 
+#  --> anything following # is considered a comment
+clear --> clear the screen /if $ not recognized, add it before any echo statements
+echo "string" --> print "string" on screeen
+execute shell script --> sh scriptName / bash scriptName / ./scriptName
+change write commands for ./ execution --> chmod 755 scriptName / or +x not 755
+.sh extension --> give shell script files .sh extension for identification
+exit 0 --> exit status; if return value is 0, command succesful, if nonzero then error
+determine exit status? --> echo $? ; do after script execution/ if 0 good, if 1 bad
+Linux Shell variable types --> system variables & User Defined Variables
+System Variables --> created by system/linux, in ALL CAPITAL LETTERS
+User Defined Variables (UDV) --> created by Me! In lower letters
+declare UDV --> variableName=value / god="julio" / must not have spaces, are case sentitive / null is defined as "" or as empty=  (where nothing follows =) /do not use ?,*
+Echo Commands --> put em in the quotes
+	-n --> donot output the trailing new line
+	-e --> enable interpretation of the following backslash escaped characters
+	\a --> alert
+	\b --> backspace
+	\n --> new line
+	\r --> carriage return
+	\t --> horizontal tab
+	\\ --> backslash
+
+
+
+
+
+appeal to: force, pity, people, against person
+
+
+
+
+
+
