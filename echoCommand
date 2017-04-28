@@ -1,0 +1,6 @@
+$ vi first
+# Displaying a message on screen
+# To execute / bash echoCommand / sh echoCommand / ./echoCommand
+#
+clear
+echo "Knowledge is Power"
