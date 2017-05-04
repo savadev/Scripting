@@ -20,15 +20,3 @@ Echo Commands --> put em in the quotes
 	\r --> carriage return
 	\t --> horizontal tab
 	\\ --> backslash
-
-
-
-
-
-appeal to: force, pity, people, against person
-
-
-
-
-
-
